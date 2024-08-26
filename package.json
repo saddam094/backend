@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Learning time",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "saddam"
+  ],
+  "author": "saddam hussain",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.4.0",
+    "colors": "^1.4.0",
+    "connect-mongo": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.13"
+  }
+}
